@@ -14,9 +14,9 @@ Large Language Models (LLMs) represent a significant breakthrough in artificial 
 
 ## How LLMs work
 
-At their core, LLMs utilize transformer neural network architecture, which allows them to process entire sequences of text in parallel rather than sequentially. This parallel processing capability significantly reduces training time by leveraging GPUs effectively [1]. The transformer architecture employs an encoder-decoder structure with a critical innovation: the self-attention mechanism. This mechanism enables each position in a sequence to attend to all other positions, allowing the model to capture long-range dependencies in text.
+At their core, LLMs utilize transformer neural network architecture, which allows them to process entire sequences of text in parallel rather than sequentially. This parallel processing capability significantly reduces training time by leveraging GPUs effectively. The transformer architecture employs an encoder-decoder structure with a critical innovation: the self-attention mechanism. This mechanism enables each position in a sequence to attend to all other positions, allowing the model to capture long-range dependencies in text.
 
-LLMs operate through a three-phase process. Initially, they undergo pre-training on massive textual datasets from sources like Wikipedia and GitHub, comprising trillions of words [3]. During this unsupervised learning phase, they learn to predict the next word in a sequence based on context. Subsequently, the models are fine-tuned for specific tasks, enhancing their performance in targeted applications. Finally, prompt-tuning trains the model to respond to specific instructions through few-shot or zero-shot learning.
+LLMs operate through a three-phase process. Initially, they undergo pre-training on massive textual datasets from sources like Wikipedia and GitHub, comprising trillions of words. During this unsupervised learning phase, they learn to predict the next word in a sequence based on context. Subsequently, the models are fine-tuned for specific tasks, enhancing their performance in targeted applications. Finally, prompt-tuning trains the model to respond to specific instructions through few-shot or zero-shot learning.
 
 The scale of these models is staggering. For instance, GPT-3 contains 175 billion parameters, essentially forming the model's knowledge bank. Training such enormous models requires substantial computational resources—training the 540-billion-parameter PaLM model in 2022 cost approximately ₹675.04 million.
 
@@ -50,11 +50,11 @@ Furthermore, LLMs facilitate text classification, language translation, fraud de
 
 ## Strengths of LLMs in language tasks
 
-The power of LLMs stems from their exceptional language capabilities. Foremost, they demonstrate remarkable contextual understanding—interpreting nuanced meanings, detecting sentiment, and comprehending idiomatic expressions [7]. This enables them to generate coherent and contextually appropriate outputs in multiple styles, languages, and formats.
+The power of LLMs stems from their exceptional language capabilities. Foremost, they demonstrate remarkable contextual understanding—interpreting nuanced meanings, detecting sentiment, and comprehending idiomatic expressions. This enables them to generate coherent and contextually appropriate outputs in multiple styles, languages, and formats.
 
 Additionally, LLMs excel at transforming language between formats, whether summarizing lengthy documents or converting technical information into simplified explanations. Their ability to combine information from various sources in their training data allows them to answer complex questions and solve problems creatively.
 
-Perhaps most impressively, LLMs showcase in-context learning capabilities. Once pretrained, they can learn from prompts without requiring additional parameters, continuously improving their performance through exposure to new information [4]. This adaptability makes them particularly effective for zero-shot and few-shot learning scenarios.
+Perhaps most impressively, LLMs showcase in-context learning capabilities. Once pretrained, they can learn from prompts without requiring additional parameters, continuously improving their performance through exposure to new information. This adaptability makes them particularly effective for zero-shot and few-shot learning scenarios.
 
 Nevertheless, it's essential to recognize that despite their sophistication, LLMs fundamentally differ from AI agents in their approach to problem-solving and interaction with the environment. Understanding these distinctions is crucial for determining which technology better aligns with specific use cases and requirements.
 
@@ -198,7 +198,7 @@ The future increasingly points toward hybrid systems that combine LLM capabiliti
 
 This integration creates systems that understand nuanced human instructions (LLM strength) while taking independent action (agent strength). For instance, in warehouse management, an LLM might interpret incoming requests like "Find and dispatch 10 units of item X," while a reinforcement learning module optimizes the actual picking and packing process.
 
-Many enterprises find this hybrid model offers the best combination of capabilities—leveraging LLMs for natural language understanding while using agent architecture for execution and real-time adaptations [8]. This synergy enhances both efficiency and scalability, especially in complex business environments.
+Many enterprises find this hybrid model offers the best combination of capabilities—leveraging LLMs for natural language understanding while using agent architecture for execution and real-time adaptations. This synergy enhances both efficiency and scalability, especially in complex business environments.
 
 ## Future Outlook: Are LLMs and AI Agents Merging?
 
@@ -206,19 +206,19 @@ The boundaries between Large Language Models and AI agents are rapidly blurring 
 
 ## Trends in LLM-powered agents
 
-LLM-powered autonomous agents are redefining productivity by making independent decisions without constant human supervision. These systems are evolving from simple assistants to proactive problem solvers that anticipate needs and take initiative. According to a Capgemini report, 82% of organizations plan to integrate AI agents by 2026 [22]. This integration focuses primarily on automating tasks like email generation, coding, and data analysis.
+LLM-powered autonomous agents are redefining productivity by making independent decisions without constant human supervision. These systems are evolving from simple assistants to proactive problem solvers that anticipate needs and take initiative. According to a Capgemini report, 82% of organizations plan to integrate AI agents by 2026. This integration focuses primarily on automating tasks like email generation, coding, and data analysis.
 
 The architecture of these agents increasingly features LLMs as their "cognitive backbone," complemented by perception modules, planning capabilities, and action frameworks. In essence, LLMs provide the reasoning while agent frameworks enable environmental interaction and tool use.
 
 ## AI vs AI-s: evolving definitions
 
-The terminology around artificial intelligence is undergoing significant refinement. The distinction between AI models and AI agent systems has become clearer—models perform specific pattern recognition tasks, while agents incorporate autonomous decision-making and goal-directed action execution [23].
+The terminology around artificial intelligence is undergoing significant refinement. The distinction between AI models and AI agent systems has become clearer—models perform specific pattern recognition tasks, while agents incorporate autonomous decision-making and goal-directed action execution.
 
-"Agentic AI" represents this evolution, where systems leverage reasoning capabilities to independently plan and execute actions. At this point, the industry distinguishes between traditional AI (focused on specific tasks) and autonomous AI-s (agents with broader capabilities). A notable IBM survey found 99% of developers building enterprise AI applications are now exploring or developing AI agents [24].
+"Agentic AI" represents this evolution, where systems leverage reasoning capabilities to independently plan and execute actions. At this point, the industry distinguishes between traditional AI (focused on specific tasks) and autonomous AI-s (agents with broader capabilities). A notable IBM survey found 99% of developers building enterprise AI applications are now exploring or developing AI agents.
 
 ## What to expect in 2025 and beyond
 
-By 2025, expect significant integration of AI agents into business operations. Deloitte forecasts 25% of enterprises using generative AI will deploy AI agents by 2025, growing to 50% by 2027 [22]. Furthermore, Gartner predicts that by 2028, at least 15% of day-to-day work decisions will be made autonomously through agentic AI [22].
+By 2025, expect significant integration of AI agents into business operations. Deloitte forecasts 25% of enterprises using generative AI will deploy AI agents by 2025, growing to 50% by 2027. Furthermore, Gartner predicts that by 2028, at least 15% of day-to-day work decisions will be made autonomously through agentic AI.
 
 ## Key developments on the horizon include:
 
@@ -240,7 +240,7 @@ Integration with IoT for seamless environmental interaction
 
 Greater emphasis on explainable AI to ensure transparency
 
-The primary challenge remains organizational readiness—most enterprises lack the infrastructure and APIs needed to fully leverage autonomous agents [24]. In light of this, businesses must focus not just on the models themselves, but on creating agent-ready environments.
+The primary challenge remains organizational readiness—most enterprises lack the infrastructure and APIs needed to fully leverage autonomous agents. In light of this, businesses must focus not just on the models themselves, but on creating agent-ready environments.
 
 ## Conclusion
 
