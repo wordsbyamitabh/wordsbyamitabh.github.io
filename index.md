@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Welcome to Amitabh's AI Blog"
+title: "Welcome to Amitabh Raulo's Blog"
 ---
 
 # 👋 Hello, I’m Amitabh!
