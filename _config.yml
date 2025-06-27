@@ -1,0 +1,7 @@
+title: "Amitabh's AI Blog"
+description: "Explaining AI, LLMs, Agents and more — in human examples"
+author: "Amitabh Raulo"
+baseurl: "" # leave blank for user site
+url: "https://wordsbyamitabh.github.io"
+markdown: kramdown
+theme: minima
