@@ -24,7 +24,7 @@ I’m a full-stack developer, AI enthusiast, and algo trading tinkerer.
 ## 📬 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/amitabhraulo)
-- 🐙 [GitHub](https://wordsbyamitabh.github.io/)
+- 🐙 [GitHub](https://wordsbyamitabh.github.io)
 - 📫 Email: amitabh.jraulo@gmail.com
 
 ---
