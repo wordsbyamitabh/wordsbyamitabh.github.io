@@ -16,7 +16,7 @@ I’m a full-stack developer, AI enthusiast, and algo trading tinkerer.
 ### 📘 [LLM vs AI Agent: Which One Actually Fits Your Needs?](/2025/06/27/llm-vs-ai-agent.html)
 > Understand the real difference between LLMs and AI agents with relatable analogies and real-world use cases.
 
-### 🧩 [RAG vs LangChain: What’s the Difference and When to Use Each?](/2025/06/28/rag-vs-langchain.html)
+### 🧩 [RAG vs LangChain: What’s the Difference and When to Use Each?](/2025/06/27-1/rag-vs-langchain.html)
 > Learn how RAG retrieves external knowledge and how LangChain powers smart, multi-step AI workflows.
 
 ---
